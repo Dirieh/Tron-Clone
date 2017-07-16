@@ -1,0 +1,57 @@
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\bin\Debug\Tron.exe
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\bin\Debug\Tron.pdb
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\obj\Debug\Tron.Form1.resources
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\obj\Debug\Tron.Properties.Resources.resources
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\obj\Debug\Tron.csproj.GenerateResource.Cache
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\obj\Debug\Tron.exe
+C:\Users\dirieh\AppData\Local\Temporary Projects\Tron\obj\Debug\Tron.pdb
+C:\Users\dirieh\Desktop\info\Tron\Tron\obj\Debug\Tron.exe
+E:\info\Tron\Tron\obj\Debug\Tron.exe
+E:\info\Tron\Tron\obj\Debug\ResolveAssemblyReference.cache
+E:\info\Tron\Tron\obj\Debug\Tron.Form1.resources
+E:\info\Tron\Tron\obj\Debug\Tron.Properties.Resources.resources
+E:\info\Tron\Tron\obj\Debug\Tron.csproj.GenerateResource.Cache
+E:\info\Tron\Tron\bin\Debug\Tron.exe
+E:\info\Tron\Tron\bin\Debug\Tron.pdb
+E:\info\Tron\Tron\obj\Debug\Tron.pdb
+E:\info\Tron\Tron\obj\Debug\Tron.Mouvement.resources
+G:\ISC4U\info\Tron\Tron\obj\Debug\Tron.exe
+G:\ISC4U\info\Tron\Tron\obj\Debug\Tron.pdb
+G:\ISC4U\info\Tron\Tron\bin\Debug\Tron.exe
+G:\ISC4U\info\Tron\Tron\bin\Debug\Tron.pdb
+G:\ISC4U\info\Tron\Tron\obj\Debug\ResolveAssemblyReference.cache
+G:\ISC4U\info\Tron\Tron\obj\Debug\Tron.Form1.resources
+G:\ISC4U\info\Tron\Tron\obj\Debug\Tron.Joueur.resources
+G:\ISC4U\info\Tron\Tron\obj\Debug\Tron.Properties.Resources.resources
+G:\ISC4U\info\Tron\Tron\obj\Debug\Tron.csproj.GenerateResource.Cache
+E:\info\Tron\Tron\Tron\obj\Debug\Tron.exe
+E:\info\Tron\Tron\Tron\obj\Debug\Tron.pdb
+E:\info\Tron\Tron\Tron\bin\Debug\Tron.exe
+E:\info\Tron\Tron\Tron\bin\Debug\Tron.pdb
+E:\info\Tron\Tron\Tron\obj\Debug\ResolveAssemblyReference.cache
+E:\info\Tron\Tron\Tron\obj\Debug\Tron.Form1.resources
+E:\info\Tron\Tron\Tron\obj\Debug\Tron.Properties.Resources.resources
+E:\info\Tron\Tron\Tron\obj\Debug\Tron.csproj.GenerateResource.Cache
+D:\info\Tron\Tron\Tron\obj\Debug\Tron.exe
+D:\info\Tron\Tron\Tron\obj\Debug\Tron.pdb
+D:\info\Tron\Tron\Tron\bin\Debug\Tron.exe
+D:\info\Tron\Tron\Tron\bin\Debug\Tron.pdb
+D:\info\Tron\Tron\Tron\obj\Debug\ResolveAssemblyReference.cache
+D:\info\Tron\Tron\Tron\obj\Debug\Tron.Properties.Resources.resources
+D:\info\Tron\Tron\Tron\obj\Debug\Tron.csproj.GenerateResource.Cache
+D:\info\Tron\Tron\Tron\obj\Debug\Tron.Joueur.resources
+D:\info\Tron\Tron\Tron\obj\Debug\Tron.Score.resources
+D:\info\Tron\Tron\Tron\obj\Debug\Tron.Form1.resources
+E:\info\Tron\Tron\Tron\obj\Debug\Tron.Joueur.resources
+E:\info\Tron\Tron\Tron\obj\Debug\Tron.Score.resources
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\Tron.exe
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\Tron.pdb
+D:\info\Tron\ExamFinal_VersionFinale\Tron\bin\Debug\Tron.exe
+D:\info\Tron\ExamFinal_VersionFinale\Tron\bin\Debug\Tron.pdb
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\ResolveAssemblyReference.cache
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\Tron.Form1.resources
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\Tron.Joueur.resources
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\Tron.Properties.Resources.resources
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\Tron.Score.resources
+D:\info\Tron\ExamFinal_VersionFinale\Tron\obj\Debug\Tron.csproj.GenerateResource.Cache

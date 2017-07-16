@@ -1,0 +1,8 @@
+E:\info\Tron\Tron\bin\Release\Tron.exe
+E:\info\Tron\Tron\bin\Release\Tron.pdb
+E:\info\Tron\Tron\obj\Release\ResolveAssemblyReference.cache
+E:\info\Tron\Tron\obj\Release\Tron.Form1.resources
+E:\info\Tron\Tron\obj\Release\Tron.Properties.Resources.resources
+E:\info\Tron\Tron\obj\Release\Tron.csproj.GenerateResource.Cache
+E:\info\Tron\Tron\obj\Release\Tron.exe
+E:\info\Tron\Tron\obj\Release\Tron.pdb
